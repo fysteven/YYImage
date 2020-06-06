@@ -23,8 +23,6 @@
 		D9D41B011BD10CF600CD8EBF /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D41B001BD10CF600CD8EBF /* Accelerate.framework */; };
 		D9D41B031BD10CFA00CD8EBF /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D41B021BD10CFA00CD8EBF /* libz.tbd */; };
 		D9D41B051BD10D0700CD8EBF /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D41B041BD10D0700CD8EBF /* ImageIO.framework */; };
-		D9D41B071BD10D0D00CD8EBF /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D41B061BD10D0D00CD8EBF /* MobileCoreServices.framework */; };
-		D9D41B091BD10D1E00CD8EBF /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D41B081BD10D1E00CD8EBF /* AssetsLibrary.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,8 +54,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9D41B031BD10CFA00CD8EBF /* libz.tbd in Frameworks */,
-				D9D41B091BD10D1E00CD8EBF /* AssetsLibrary.framework in Frameworks */,
-				D9D41B071BD10D0D00CD8EBF /* MobileCoreServices.framework in Frameworks */,
 				D9D41B051BD10D0700CD8EBF /* ImageIO.framework in Frameworks */,
 				D9D41B011BD10CF600CD8EBF /* Accelerate.framework in Frameworks */,
 				D9D41AFF1BD10CF200CD8EBF /* QuartzCore.framework in Frameworks */,
@@ -175,6 +171,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = D9D41AAC1BD102F300CD8EBF;
