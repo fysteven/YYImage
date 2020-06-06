@@ -168,11 +168,11 @@
 			};
 			buildConfigurationList = D9D41AB01BD102F300CD8EBF /* Build configuration list for PBXProject "YYImage" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = D9D41AAC1BD102F300CD8EBF;
 			productRefGroup = D9D41AB71BD102F300CD8EBF /* Products */;
